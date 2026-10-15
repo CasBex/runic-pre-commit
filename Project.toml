@@ -1,2 +1,5 @@
 [deps]
 Runic = "62bfec6d-59d7-401d-8490-b29ee721c001"
+
+[sources]
+Runic = {rev = "master", url = "https://github.com/tecosaur/Runic.jl"}
